@@ -27,4 +27,6 @@ That's it!
 To Exit fullscreen:
 
 MacOS: COMMAND + F (Or F11)
+
+
 Windows: Alt + F (Or F11)
