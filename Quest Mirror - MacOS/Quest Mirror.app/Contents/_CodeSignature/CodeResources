@@ -388,17 +388,17 @@
 		<data>
 		YveJ6PoME8X9T+JQV2v0WwfIV4E=
 		</data>
-		<key>Resources/QuestIcon.icns</key>
-		<data>
-		8Z9LZRDUkChZ/oVKZsYbi5Im37A=
-		</data>
 		<key>Resources/base_library.zip</key>
 		<data>
-		89pz/CkZ7/b2DOIRjzxYWGFk5+c=
+		hqym1UEzB7DqGmhJOn/LnF35As0=
 		</data>
 		<key>Resources/bin/scrcpy-server</key>
 		<data>
 		OBggBdpn5nCi3GQi2vO+izqUigo=
+		</data>
+		<key>Resources/generated-58442b8b552d6cac922c4d7bcea6680fbb07ec4ad90c64e588ad2198784dc92a.icns</key>
+		<data>
+		C6Sm8YUwqOYEztf2d0ELxFlLdOI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -2456,18 +2456,11 @@
 			<key>symlink</key>
 			<string>PySide6/Qt/lib/QtWidgets.framework/Versions/A/QtWidgets</string>
 		</dict>
-		<key>Resources/QuestIcon.icns</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Qpp4oWQY7+g6cVyCeLX0zMM7IRUsIQzH/AW+KB/EvJA=
-			</data>
-		</dict>
 		<key>Resources/base_library.zip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lqmIboDyx5/TlevBCQ8sTG2acK7+9UgQvopxiEwYHBk=
+			06nm9xKNC0hi7OZMPYBRXerulM20SklPys/BXFHae5I=
 			</data>
 		</dict>
 		<key>Resources/bin/adb</key>
@@ -2490,6 +2483,13 @@
 			<key>hash2</key>
 			<data>
 			3qy5ke0lCXFRYP/ceQfke0Fg6zDRVmIX6QR/1biFDK4=
+			</data>
+		</dict>
+		<key>Resources/generated-58442b8b552d6cac922c4d7bcea6680fbb07ec4ad90c64e588ad2198784dc92a.icns</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lCRg7Ub8FMuw8PWiK5ms+MtqMl8OCnXDUnYhxkhFYXE=
 			</data>
 		</dict>
 		<key>Resources/libSDL3.0-78d5160a47.dylib</key>

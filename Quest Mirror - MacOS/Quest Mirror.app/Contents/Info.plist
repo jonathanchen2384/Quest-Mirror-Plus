@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>Quest Mirror Plus</string>
+	<string>Quest Mirror</string>
 	<key>CFBundleExecutable</key>
-	<string>Quest Mirror Plus</string>
+	<string>Quest Mirror</string>
 	<key>CFBundleIconFile</key>
-	<string>QuestIcon.icns</string>
+	<string>generated-58442b8b552d6cac922c4d7bcea6680fbb07ec4ad90c64e588ad2198784dc92a.icns</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.jonathanchen.questmirrorplus</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Quest Mirror Plus</string>
+	<string>Quest Mirror</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
